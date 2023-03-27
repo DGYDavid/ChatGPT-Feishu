@@ -139,6 +139,10 @@ https://user-images.githubusercontent.com/13283837/217905601-6e1ff237-5275-4deb-
 
 说明你用 HTTP 发起请求 / 或者用了 aircode 的debug 功能，是正常现象。
 
+### 5.AxiosError: Request failed with status code 400，怎么解决？
+
+说明飞书端拒绝接受，你直接使用企业或者校园的飞书可能会遇到这个问题，解决方法是自己新建一个企业，专属自己使用
+
 ## LICENSE
 
 [GPLv3](LICENSE)
